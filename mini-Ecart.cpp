@@ -186,7 +186,7 @@ int main() {
         } else if (action == "list_discounts") {
             cout << "Available Discounts:" << endl;
             cout << "1. Buy 1 Get 1 Free on Fashion items" << endl;
-            cout << "2. 10% Off on Electronics" << endl;
+            cout << "2. 10% 0ff on Electronics" << endl;
         } else if (action == "checkout") {
             double total = cart.calculateTotal();
             double totalDiscount = 0;
